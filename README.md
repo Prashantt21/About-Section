@@ -1,46 +1,24 @@
-# About-Section
+📌 About Me
+Hi there 👋 I'm Prashant Rajput, a Data Analyst with a Mechanical Engineering foundation and a passion for transforming raw data into actionable insights. I specialize in SQL, Power BI, Python, and data visualization. Currently working as an MIS Analyst at Advantmed LLP, where I automate reporting pipelines, build intuitive dashboards, and improve data-driven decision-making across teams.
 
-🚀 About Me
+I'm also pursuing a Data Science course focused on Machine Learning, NLP, and Generative AI to stay on the cutting edge of analytics and AI technology.
 
-Hi, I'm Prashant Rajput — a Data Analyst with a strong foundation in Power BI, SQL, and Python, passionate about transforming raw data into meaningful insights and automated solutions. With 2+ years of experience across roles in MIS analysis and technical marketing, I specialize in building interactive dashboards, optimizing data systems, and delivering actionable business intelligence.
+🔧 Tech Stack
+-Languages & Tools: Python, SQL, DAX, Excel, MySQL
+-Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
+-Libraries & Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+-Specialties: Data Cleaning, Dashboards, Predictive Analytics, EDA, ML Workflows
 
-I’m currently deepening my expertise through a Data Science with Generative AI program, focusing on Machine Learning, NLP, LLMs, and real-world project applications.
+🚀 Projects
+-COVID-19 SQL Analysis: Trend analysis and death rate evaluation using SQL on global data
+-Nashville Housing Data Cleaning: Complete data wrangling project in T-SQL
+-EDA with Python: Visual storytelling and trend discovery using large datasets
 
-
----
-
-🔧 Tech Stack & Tools
-
-Languages & Tools: Python, SQL, DAX, Excel, MySQL
-
-Data Visualization: Power BI, Tableau, Seaborn, Matplotlib
-
-Libraries & Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-
-Other Tools: Git, Google Sheets, Power Query, APIs, Jupyter
-
-
-
----
-
-📈 What I’m Working On
-
-Building a portfolio of SQL and Power BI projects
-
-Applying LLMs and Generative AI to solve real-world data problems
-
-Automating data pipelines and enhancing reporting processes
+📬 Connect with Me
+📧 Email: prashanttr21@gmail.com
+💼[ LinkedIn](in/prashantrajput21/)
+💻 [GitHub](/Prashantt21/)
+🧠 [HackerRank](profile/prashantt21)
+🧩 [LeetCode](u/prashantt21/)
 
 
-
----
-
-📫 Let’s Connect
-
-LinkedIn
-
-LeetCode
-
-HackerRank
-
-📧 prashanttr21@gmail.com
